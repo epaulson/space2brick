@@ -1,0 +1,9 @@
+brick:Building,brick:Floor,brick:Lighting_Zone,brick:Room,,brick:isFedBy,,brick:Area
+ex:B1,ex:F1,,ex:101,,ex:VAV1,,200
+,,,ex:102,,ex:VAV1,,
+,ex:F2,,ex:201,,ex:VAV3,,400
+,,,ex:202,,,,
+,,ex:L1,ex:204,,,,
+,,,ex:205,,,,900
+,ex:F3,,ex:303,,,,
+,,,ex:304,,ex:VAV4,,
